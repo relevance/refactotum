@@ -1,1 +1,13 @@
-{ "name": "Refactotum 2011", "sections": [ {"section":"one"} ]}
+{ "name": "Refactotum 2011",
+  "sections":
+  [
+    {"section":"intro"},
+    {"section":"git"},
+    {"section":"workflow"},
+    {"section":"metrics"},
+    {"section":"second-half"},
+    {"section":"clojure"},
+    {"section":"mistakes"},
+    {"section":"conclusion"}
+  ]
+}
