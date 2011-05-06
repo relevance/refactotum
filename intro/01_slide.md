@@ -3,6 +3,7 @@
 ## Relevance
 
 !SLIDE bullets 
+
 # Introduction #
 ## Justin Gehtland
 
