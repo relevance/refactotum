@@ -61,3 +61,10 @@ Free Resources abound:
 
 * example of grepping thru history
 
+!SLIDE
+
+other stuff?
+
+!SLIDE
+
+# Questions?
