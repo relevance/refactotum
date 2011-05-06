@@ -44,3 +44,20 @@ Free Resources abound:
 * ABC --> always be committing
 * always be pushing
 
+!SLIDE
+
+* example of how to ensure tracking branches (config)
+
+!SLIDE
+
+* example of showing what branches are unmerged
+* git-wtf
+
+!SLIDE
+
+* show what commits are missing between two branches
+
+!SLIDE
+
+* example of grepping thru history
+
